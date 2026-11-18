@@ -17,10 +17,16 @@ I'm a Web developer interested in building web applications, managing Linux serv
 - HTML, CSS, JavaScript, Bootstrap
 - PHP, Laravel, MySQL, PgSQL
 
-**Cloud & Infrastructure**
-- Linux, Ubuntu, Docker
-- Dokploy, Git, GitHub
-- Server monitoring, backup verification, recovery readiness
+### ☁️ Cloud & Infrastructure
+
+- **Server Administration:** Linux VPS and server management
+- **Hosting Control Panels:** cPanel, aaPanel
+- **Web Hosting:** Website hosting, domain configuration, DNS management
+- **Web Services:** Hosting environments and web server configuration
+- **Security:** SSL/TLS setup and configuration
+- **Deployment:** Website deployment and hosting management
+- **Containers:** Docker and containerized applications
+- **Infrastructure Operations:** Backup, troubleshooting, and maintenance
 
 **Currently Learning**
 - AWS fundamentals and IAM
